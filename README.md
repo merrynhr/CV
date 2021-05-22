@@ -11,12 +11,14 @@ In September 2020 I left my job as a teacher in Jakarta and decided to teach mys
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Education First, Indonesia** (04/18 to 08/20)  
+_Teacher_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Teaching and managing a classroom for young learners, teenagers, and business students. Holding and attending teacher training workshops.
+-Attained Band 4 in the Cambridge TKT (Teaching Knowledge Test) for modules 1-3 and the Young Learners module.
+-Attained intermediate level fluency in Bahasa Indonesia.   
 
-**Company Name** (start-date to end-date)  
+**US Peace Corps** (Upcoming)  
 _Your job title_
 
 - Any experience relevent to software development
@@ -27,9 +29,9 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
--What was the situation/task? (ST)
+-Using "R" for statistical programming at university. (ST)
 
--How was the skill used?
+-Used Bayesian inference to construct a tree model of cultural change over time.
 
 -What did you do? (action)
 
@@ -62,11 +64,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Exeter (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Human Sciences BSc, any specialisms
+- 2:1
+- Co-founder of the Exeter Human Sciences society 
 
 #### Any other qualifications
 

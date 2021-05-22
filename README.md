@@ -1,6 +1,6 @@
 ## Merryn Hurley-Rawlins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+In September 2020 I left my job as a teacher in Jakarta and decided to teach myself to code. Despite little prior experience with programming, other than using R at university, I found myself getting hooked. Given my background as a teacher, I am particularly interested in e-learning tools. The importance of developing engaging online education tools has become increasingly clear throughout the covid-19 pandemic. In the future I would love to find ways of bringing together my interests in both programming and teaching.
 
 ## Projects
 

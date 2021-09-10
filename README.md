@@ -4,10 +4,10 @@ In September 2020 I left my job as a teacher in Jakarta and decided to teach mys
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                    | Tech/tools                         |
+| ---------------------------- | ------------------------------ | ---------------------------------- |
+| **Final project**            | Tutoroom. Online tutoring site.| React front end, Rails API backend |
+| **Something else worked on** | ANY BLOG. Blogging platform.   | Rails                              |
 
 ## Work Experience
 
@@ -18,40 +18,31 @@ _Teacher_
 -Attained Band 4 in the Cambridge TKT (Teaching Knowledge Test) for modules 1-3 and the Young Learners module.
 -Attained intermediate level fluency in Bahasa Indonesia.   
 
-**US Peace Corps** (Upcoming)  
-_Your job title_
+**University College, Oxford** (September 2012 - April 2014)  
+_Caterer, Silver Service Waiter and Kitchen Porter_
 
-- Any experience relevent to software development
+- In my final year of school I decided to get a job to gain a degree of financial independence and to save for travel. The experience, working in a high pressure environment where organisation and task flexibility was essential, helped prepare me for university and my first graduate job.  
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
 
--STAR
+
 -Using "R" for statistical programming at university. (ST)
 
 -Used Bayesian inference to construct a tree model of cultural change over time.
 
--What did you do? (action)
+-One week of work experience at the at the Wellcome Trust Centre for Human Genetics (October, 2013) where I was tasked with extracting DNA from mouse liver cells and then helped to run a quanti-tative Polymerase Chain Reaction, using an ultra-violet probe.
 
--What was the result?
 
 
 #### This Skill
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- During my final project at Makers, had difficulty agreeing on which tech stack to use. Some members of the group wanted to focus on JavaScript, others on Ruby. We all wanted to ensure we made use of frameworks regularly used in the industry. Eventually I suggested that we used Ruby on Rails as an API on the backend and React on the frontend, allowing everyone in the group to focus on their own priorites. This also allowed us to practice using technologies like Postman and Insomia to test our Rails API. 
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- While living in Jakarta as an English teacher, I spent time working with a dyslexic Iraqi refugee who was struggling to learn to read and write. His speaking ability was very strong and it was clear that he was a talented and motivated student. It became difficult to teach the class because my dyslexic student was unable to keep up with comprehension tasks my other students needed to practice. After realizing that my student lived nearby my apartment block, I spoke to my students parents and to my supervisor and I decided that I would offer free tutoring sessions to the student. We spent 2 hours a week working on phonics. This allowed the students to catch up with the rest of their classmates and learn to read and write. I remain in touch with his family.
 
 ## Education
 
@@ -60,8 +51,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
 
 #### University of Exeter (start_date to end_date)
@@ -72,8 +62,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+A levels: Biology (A), Chemistry (C), Classical Civ (A)
+GCSEs: 4 A* s, 3 As, 2 Bs
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Continuing to learn Bahasa Indonesia
+- Love music and try to play the harmonica (pretty badly!)
+- Hiking and adventure of any kind! 
+

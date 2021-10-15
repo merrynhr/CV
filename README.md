@@ -49,7 +49,7 @@ _Work Experience_
 
 ## Education
 
-#### Makers Academy (May 2021 to August 2021)
+#### Makers Academy (May 2021 - August 2021)
 - Used paring in order to problem solve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC
 - Agile workflow and team collaboration
@@ -57,7 +57,7 @@ _Work Experience_
 - Insomnia and Postman
 - Testing frameworks - RSpec, Jasmine, Capybara
 
-#### University of Exeter (start_date to end_date)
+#### University of Exeter (September 2014 - June 2017)
 
 - Human Sciences BSc
 - 2:1

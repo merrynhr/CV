@@ -14,14 +14,17 @@ In May 2021 I joined Makers Academy for 12 weeks of intensive group based learni
 ## Work Experience
 
 **Global Initiative, Oxford** (October 2021 - ongoing)
+
 _Work Experience as a frontend dev_
 - Working on the Frontend team using React and Vue to create impressive websites for clients around the world.
 
 **Acknowledge App** (October 2021 - ongoing)
+
 _React native developer_
 - Working with a small team of Makers graduates to create an app that allows users to keep track of their daily achievements and to acknowledge those people in their lives that help them along the way. I have greatly enjoyed making use of the app myself while working on it! 
 
 **Education First, Indonesia** (April 2018 - September 2020)  
+
 _Teacher_
 - Teaching and managing a classroom for young learners, teenagers, and business students. 
 - Holding and attending teacher training workshops.
@@ -29,10 +32,12 @@ _Teacher_
 - While working as a teacher effective time managment skills were essential both in terms of managing my own resources and those of my students. 
 
 **University College, Oxford** (September 2012 - April 2014)  
+
 _Caterer, Silver Service Waiter and Kitchen Porter_
 - In my final year of school I decided to get a job to gain a degree of financial independence and to allow for a planned hiking trip to Borneo. This experience, working in a high pressure environment where organisation and task flexibility was essential, helped prepare me for university and my first graduate job.  
 
 **Wellcome Trust Centre for Human Genetics, Oxford** (October 2013)
+
 _Work Experience_
 - Two weeks working an intellectually stimulating and highly demanding environment where attention to detail (especially while working with expensive equipment) was key.
 - In this role I was tasked with extracting DNA from mouse liver cells and then helped to run a quantitative Polymerase Chain Reaction, using an ultra-violet probe. 

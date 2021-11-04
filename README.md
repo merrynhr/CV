@@ -1,7 +1,7 @@
 ## Merryn Hurley-Rawlins
 
-In September 2020 I left my job as a teacher in Jakarta and decided to teach myself to code. Despite little prior experience with programming, other than using R at university, I found myself getting hooked. Given my background as a teacher, I am particularly interested in e-learning tools. The importance of developing engaging online education tools has become increasingly clear throughout the covid-19 pandemic. In the future I would love to find ways of bringing together my interests in both programming and teaching. 
-In May 2021 I joined Makers Academy for 12 weeks of intensive group based learning taking me from keen amateur to well rounded junior developer. Makers not only boosted my programming confidence but taught me to love pair programming and working in teams to create projects from the ground up. 
+In September 2020 I left my job as an English teacher in Jakarta and decided to teach myself to code. Despite little prior experience with programming, other than using R at university, I found myself getting hooked. I became particularly interested in e-learning tools after my classes were moved online due to the pandemic.  I have personally benefited hugely from utilising online learning tools over the last couple years, whether teaching myself to code, improving my Indonesian, or teaching others. The idea of being able to build such tools myself was, and remains, incredibly exciting to me so, in May 2021, I joined Makers Academy for 12 weeks of intensive group based learning taking me from keen amateur to well rounded junior developer. Makers not only boosted my programming confidence but taught me to love pair programming and working in teams to create projects and learn new technologies. In the future I would love to find ways of bringing together the skills I have developed both in programming and teaching.
+ 
 
 
 ## Projects
@@ -11,25 +11,58 @@ In May 2021 I joined Makers Academy for 12 weeks of intensive group based learni
 | **Final project**            | Tutoroom. Online tutoring site.| React front end, Rails API backend |
 | **Personal blog**            | ANY BLOG. Blogging platform.   | Rails                              |
 
+
+## Skills
+
+#### Ability to associate and combine areas of knowledge 
+
+- During my final project at Makers, our team had difficulty agreeing on which tech stack to use. Some members of the group wanted to focus on JavaScript, others on Ruby. We all wanted to ensure we made use of frameworks regularly used in the industry. Eventually I suggested that we used Ruby on Rails as an API on the backend and React on the frontend, allowing everyone in the group to focus on their own priorites. This also allowed us to practice using technologies like Postman and Insomia to test our Rails API. 
+
+- My university degree, Human Sciences, was highly interdisciplinary. I studied everything from environmental law to statistics, and from epigenetics to sociology.  This gave me a strong sense of the importance of both breadth and depth of knowledge and allowed me to practise tackling problems from various lines of inquiry. 
+
+#### Adaptability and initiative
+
+- While living in Jakarta as an English teacher, I spent time working with a dyslexic Iraqi refugee who was struggling to learn to read and write. His speaking ability was very strong and it was clear that he was a talented and motivated student. It became difficult to teach the class because my dyslexic student was unable to keep up with comprehension tasks my other students needed to practice. After realizing that my student lived nearby my apartment block, I spoke to my student's parents and to my supervisor and I decided that I would offer free tutoring sessions to the student. We spent 2 hours a week working on phonics. This allowed my student to catch up with the rest of his classmates. I remain in touch with his family.
+
+## Technologies
+
+- Ruby, Rails, JavaScript, React, React Native, Vue, CSS, PSQL 
+- Insomnia and Postman
+- Testing frameworks - RSpec, Jasmine, Capybara
+
 ## Work Experience
 
-**Global Initiative, Oxford** (October 2021 - ongoing)
+**Global Initiative, Oxford** (October 2021)
 
 _Work Experience as a frontend dev_
-- Working on the Frontend team using React and Vue to create impressive websites for clients around the world.
+- I spent two weeks working on a Laravel project where I was tasked with converting Blade templates into Vue.js components. I had no experience with Laravel or PHP and little experience with Vue. I was, however, able to use principles I had learnt while working with Rails, such as the MVC design pattern, and React/React Native, for example working with components, to tackle the project head on. Consequently, I was about to make fast progress and my changes were merged into main. 
+
+- My final week was spent working on Javascript animations. I was tasked with creating animations using three separate approaches: using Jquery, vanilla Javascript and finally GSAP. Once I had created the animations using Jquery I was able to quickly update my approach for Vanilla JS and GSAP (which was also new to me). 
+
+- Working at Global Initiative also gave me an insight into technologies that make for smooth and efficient project management. For instance, I was introduced to Liquid Planner by my project manager and also used Jenkins for continuous integration. 
+
+- Finally I became more accustomed to dealing with unexpected blockers and using my own initiative to find solutions. For example, using older Node versions with an M1 mac, required me to use Rosetta. 
+
 
 **Acknowledge App** (October 2021 - ongoing)
 
 _React native developer_
-- Working with a small team of Makers graduates to create an app that allows users to keep track of their daily achievements and to acknowledge those people in their lives that help them along the way. I have greatly enjoyed making use of the app myself while working on it! 
+-Working with the Acknowledge team has allowed me to practise debugging a relatively large codebase in a framework I hadn’t previously used, React Native. 
+
+-Using communication skills developed as a teacher, I have enjoyed walking through the codebase with newer team members, introducing them to the app’s design and functionality, and answering questions about project workflow.
+
+-My time with Acknowledge has meant working in an informal setting, requiring personal drive and initiative to keep up the rate of progress. Balancing various priorities, such as job hunting and work experience, while working on this project has also required careful time management and organisation skills.
+
 
 **Education First, Indonesia** (April 2018 - September 2020)  
 
 _Teacher_
-- Teaching and managing a classroom for young learners, teenagers, and business students. 
-- Holding and attending teacher training workshops.
-- Attained intermediate level proficiency in Bahasa Indonesia.
-- While working as a teacher effective time managment skills were essential both in terms of managing my own resources and those of my students. 
+- Teaching young learners, teenagers, and business students, often all in the same day, required regular adjustment of communication strategies to suit the needs of my classes.  
+- After attending several teacher training workshops I was invited to hold my own workshops for newer employees. 
+- While working as a teacher, effective time management skills were essential both in terms of managing my own resources and those of my students. 
+- Adjusting to a new multicultural working environment was essential in making the move to life in Jakarta. 
+- Dealing with unpredictability, such as power cuts and flooding was also essential to life in Jakarta.  
+- While teaching myself to code my knowledge of teaching techniques, such as spaced repetition, accelerating my learning speed significantly. 
 
 **University College, Oxford** (September 2012 - April 2014)  
 
@@ -42,25 +75,21 @@ _Work Experience_
 - Two weeks working an intellectually stimulating and highly demanding environment where attention to detail (especially while working with expensive equipment) was key.
 - In this role I was tasked with extracting DNA from mouse liver cells and then helped to run a quantitative Polymerase Chain Reaction, using an ultra-violet probe. 
 
-## Skills
-
-#### Ability to associate and combine areas of knowledge 
-
-- During my final project at Makers, our team had difficulty agreeing on which tech stack to use. Some members of the group wanted to focus on JavaScript, others on Ruby. We all wanted to ensure we made use of frameworks regularly used in the industry. Eventually I suggested that we used Ruby on Rails as an API on the backend and React on the frontend, allowing everyone in the group to focus on their own priorites. This also allowed us to practice using technologies like Postman and Insomia to test our Rails API. 
-
-#### Adaptability and initiative
-
-- While living in Jakarta as an English teacher, I spent time working with a dyslexic Iraqi refugee who was struggling to learn to read and write. His speaking ability was very strong and it was clear that he was a talented and motivated student. It became difficult to teach the class because my dyslexic student was unable to keep up with comprehension tasks my other students needed to practice. After realizing that my student lived nearby my apartment block, I spoke to my student's parents and to my supervisor and I decided that I would offer free tutoring sessions to the student. We spent 2 hours a week working on phonics. This allowed my student to catch up with the rest of his classmates. I remain in touch with his family.
-
 ## Education
 
 #### Makers Academy (May 2021 - August 2021)
-- Used paring in order to problem solve effeciently, requiring teamwork and communication.
-- OOP, TDD, MVC
 - Agile workflow and team collaboration
-- Ruby, Rails, JavaScript, React, CSS, PSQL 
-- Insomnia and Postman
-- Testing frameworks - RSpec, Jasmine, Capybara
+Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
+
+- Model View Controller design pattern
+Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to make sense of new codebases faster and with more confidence, for instance when working with Laravel for Global Initiative.
+
+-Test Driven Development 
+Makers emphasised the use of TDD to encourage DRY and well organised code, and a methodical step by step process that breaks code down into more manageable sections. 
+
+- Working in a high pressure environment
+For our final projects at Makers we had only two weeks to decide on, plan, and execute our ideas. The experience gave me the confidence to teach myself new technologies and create projects with them from scratch. Teamwork and communication skills were also essential, particularly when designing on a project that suited everyone in such a short timeframe.    
+
 
 #### University of Exeter (September 2014 - June 2017)
 
@@ -69,14 +98,9 @@ _Work Experience_
 - Co-founder of the Exeter Human Sciences society. 
 - Using "R" for statistical programming at university. 
 
-#### Any other qualifications
-
-A levels: Biology (A), Chemistry (C), Classical Civ (A)
-GCSEs: 4 A* s, 3 As, 2 Bs
-
 ## Hobbies
 
 - Continuing to practise Bahasa Indonesia whenever I have the chance.
-- Listening to music of all kinds and playing Bob Dylan songs on the harmonica (pretty badly!)
+- Listening to music of all kinds and playing Bob Dylan songs on the harmonica (pretty badly!).
 - Hiking and adventure of any kind! 
 

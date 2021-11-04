@@ -24,6 +24,11 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 
 - While living in Jakarta as an English teacher, I spent time working with a dyslexic Iraqi refugee who was struggling to learn to read and write. His speaking ability was very strong and it was clear that he was a talented and motivated student. It became difficult to teach the class because my dyslexic student was unable to keep up with comprehension tasks my other students needed to practice. After realizing that my student lived nearby my apartment block, I spoke to my student's parents and to my supervisor and I decided that I would offer free tutoring sessions to the student. We spent 2 hours a week working on phonics. This allowed my student to catch up with the rest of his classmates. I remain in touch with his family.
 
+#### Problem solving 
+
+- As part of my work experience with Global Initiative, an Oxford based digital agency, I spent two weeks working on a Laravel project where I was tasked with converting Blade templates into Vue.js components. I had no experience with Laravel or PHP and little experience with Vue. I was, however, able to use principles I had learnt while working with Rails, such as the MVC design pattern, and React/React Native, for example working with components, to tackle the project head on. Consequently, I was able to make fast progress and my changes were merged into main. My changes meant that all events relating to the navbar, with differentiated views for admins, super admins, and regular users, were handled entirely by the frontend using Vue. Given Vue’s speed and performance, this allowed for a smoother user experience.  
+
+
 ## Technologies
 
 - Ruby, Rails, JavaScript, React, React Native, Vue, CSS, PSQL 
@@ -35,23 +40,22 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 **Global Initiative, Oxford** (October 2021)
 
 _Work Experience as a frontend dev_
-- I spent two weeks working on a Laravel project where I was tasked with converting Blade templates into Vue.js components. I had no experience with Laravel or PHP and little experience with Vue. I was, however, able to use principles I had learnt while working with Rails, such as the MVC design pattern, and React/React Native, for example working with components, to tackle the project head on. Consequently, I was about to make fast progress and my changes were merged into main. 
 
-- My final week was spent working on Javascript animations. I was tasked with creating animations using three separate approaches: using Jquery, vanilla Javascript and finally GSAP. Once I had created the animations using Jquery I was able to quickly update my approach for Vanilla JS and GSAP (which was also new to me). 
+- My final week at Global Initiative was spent working on Javascript animations. I was tasked with creating animations using three separate approaches: using Jquery, vanilla Javascript and finally GSAP. Once I had created the animations using Jquery I was able to quickly update my approach for Vanilla JS and GSAP. This experience has given me confidence that I can switch between various libraries and approaches so as to best meet the needs of a particular task.
 
 - Working at Global Initiative also gave me an insight into technologies that make for smooth and efficient project management. For instance, I was introduced to Liquid Planner by my project manager and also used Jenkins for continuous integration. 
 
-- Finally I became more accustomed to dealing with unexpected blockers and using my own initiative to find solutions. For example, using older Node versions with an M1 mac, required me to use Rosetta. 
+- Finally I became more accustomed to dealing with unexpected blockers, and using my own initiative to find solutions. For example, using older Node versions with an M1 mac, required me to use Rosetta. This allowed software built for Intel processors to run on Apple silicon, and allowed me to work on older codebases without issues.  
 
 
 **Acknowledge App** (October 2021 - ongoing)
 
 _React native developer_
--Working with the Acknowledge team has allowed me to practise debugging a relatively large codebase in a framework I hadn’t previously used, React Native. 
+- Working with the Acknowledge team has allowed me to practise debugging a relatively large codebase in a framework I hadn’t previously used. For instance I was able to identify and fix a bug related to user sign in by testing user experience on an iOS simulator.
 
--Using communication skills developed as a teacher, I have enjoyed walking through the codebase with newer team members, introducing them to the app’s design and functionality, and answering questions about project workflow.
+- Using communication skills developed as a teacher, I have enjoyed working through the codebase with newer team members, introducing them to the app’s design and functionality, and answering questions about project workflow. This has resulted in faster integration into the team. 
 
--My time with Acknowledge has meant working in an informal setting, requiring personal drive and initiative to keep up the rate of progress. Balancing various priorities, such as job hunting and work experience, while working on this project has also required careful time management and organisation skills.
+- My time with Acknowledge has meant working in an informal setting, requiring personal drive and initiative to keep up the rate of progress. Balancing various priorities, such as job hunting and work experience, while working on this project has also required careful time management and organisational skills.
 
 
 **Education First, Indonesia** (April 2018 - September 2020)  
@@ -78,17 +82,18 @@ _Work Experience_
 ## Education
 
 #### Makers Academy (May 2021 - August 2021)
-- Agile workflow and team collaboration
-Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
+- Agile workflow and team collaboration:
+- Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. This was achieved by pairing in sprints to implement tickets agreed upon by the whole team, and by attending standups to update team members on progress and any blockers. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
 
-- Model View Controller design pattern
-Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to make sense of new codebases faster and with more confidence, for instance when working with Laravel for Global Initiative.
+- Model View Controller design pattern:
+- Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to make sense of new codebases faster and with more confidence, for instance when working with Laravel for Global Initiative.
 
--Test Driven Development 
-Makers emphasised the use of TDD to encourage DRY and well organised code, and a methodical step by step process that breaks code down into more manageable sections. 
+-Test Driven Development: 
+- Makers emphasised the use of TDD to encourage DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier and faster as it becomes much easier to check if the refactoring process has broken anything. 
+ 
 
-- Working in a high pressure environment
-For our final projects at Makers we had only two weeks to decide on, plan, and execute our ideas. The experience gave me the confidence to teach myself new technologies and create projects with them from scratch. Teamwork and communication skills were also essential, particularly when designing on a project that suited everyone in such a short timeframe.    
+- Working in a high pressure environment:
+- For our final projects at Makers we had only two weeks to decide on, plan, and execute our ideas. The experience gave me the confidence necessary to teach myself new technologies and create projects with them from scratch. My teamwork and communication skills were also essential, particularly when deciding on a project that suited everyone in such a short timeframe.     
 
 
 #### University of Exeter (September 2014 - June 2017)

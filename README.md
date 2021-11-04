@@ -82,17 +82,17 @@ _Work Experience_
 ## Education
 
 #### Makers Academy (May 2021 - August 2021)
-- Agile workflow and team collaboration:
+_Agile workflow and team collaboration_
 - Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. This was achieved by pairing in sprints to implement tickets agreed upon by the whole team, and by attending standups to update team members on progress and any blockers. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
 
-- Model View Controller design pattern:
+_Model View Controller design pattern_
 - Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to make sense of new codebases faster and with more confidence, for instance when working with Laravel for Global Initiative.
 
--Test Driven Development: 
+_Test Driven Development_
 - Makers emphasised the use of TDD to encourage DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier and faster as it becomes much easier to check if the refactoring process has broken anything. 
  
 
-- Working in a high pressure environment:
+_Working in a high pressure environment_
 - For our final projects at Makers we had only two weeks to decide on, plan, and execute our ideas. The experience gave me the confidence necessary to teach myself new technologies and create projects with them from scratch. My teamwork and communication skills were also essential, particularly when deciding on a project that suited everyone in such a short timeframe.     
 
 

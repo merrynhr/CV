@@ -40,8 +40,7 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 **Global Initiative, Oxford** (October 2021)
 
 _Work Experience as a frontend dev_
-
-- My final week at Global Initiative was spent working on Javascript animations. I was tasked with creating animations using three separate approaches: using Jquery, vanilla Javascript and finally GSAP. Once I had created the animations using Jquery I was able to quickly update my approach for Vanilla JS and GSAP. This experience has given me confidence that I can switch between various libraries and approaches so as to best meet the needs of a particular task.
+- My final week at Global Initiative was spent working on Javascript animations. I was tasked with creating animations using three approaches: Jquery, vanilla Javascript and GSAP. Once I had created animations using Jquery, I was quickly able to update my approach for Vanilla JS and GSAP. The main payoff for me has come from increased confidence in switching between various libraries and approaches so as to best meet the needs of a particular task.
 
 - Working at Global Initiative also gave me an insight into technologies that make for smooth and efficient project management. For instance, I was introduced to Liquid Planner by my project manager and also used Jenkins for continuous integration. 
 
@@ -51,7 +50,7 @@ _Work Experience as a frontend dev_
 **Acknowledge App** (October 2021 - ongoing)
 
 _React native developer_
-- Working with the Acknowledge team has allowed me to practise debugging a relatively large codebase in a framework I hadn’t previously used. For instance I was able to identify and fix a bug related to user sign in by testing user experience on an iOS simulator.
+- Working with the Acknowledge team has provided practise debugging a relatively large codebase in a framework I hadn’t previously used. For instance I was able to identify and fix a bug related to user sign in by testing user experience on an iOS simulator.
 
 - Using communication skills developed as a teacher, I have enjoyed working through the codebase with newer team members, introducing them to the app’s design and functionality, and answering questions about project workflow. This has resulted in faster integration into the team. 
 
@@ -66,7 +65,7 @@ _Teacher_
 - While working as a teacher, effective time management skills were essential both in terms of managing my own resources and those of my students. 
 - Adjusting to a new multicultural working environment was essential in making the move to life in Jakarta. 
 - Dealing with unpredictability, such as power cuts and flooding was also essential to life in Jakarta.  
-- While teaching myself to code my knowledge of teaching techniques, such as spaced repetition, accelerating my learning speed significantly. 
+- While teaching myself to code, my knowledge of teaching techniques, such as spaced repetition, accelerating my learning speed significantly. 
 
 **University College, Oxford** (September 2012 - April 2014)  
 

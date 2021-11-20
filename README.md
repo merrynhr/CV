@@ -1,8 +1,6 @@
 ## Merryn Hurley-Rawlins
 
-In September 2020 I left my job as an English teacher in Jakarta and decided to teach myself to code. Despite little prior experience with programming, other than using R at university, I found myself getting hooked. I became particularly interested in e-learning tools after my classes were moved online due to the pandemic. The idea of being able to build such tools myself was, and remains, incredibly exciting to me. In May 2021 I joined Makers Academy for 12 weeks of intensive group based learning taking me from keen amateur to well rounded junior developer. Makers not only boosted my programming confidence but taught me to love pair programming and working in teams to create projects and learn new technologies. In the future I would love to find ways of bringing together the skills I have developed both in programming and teaching.
- 
-
+In September 2020 I left my job as an English teacher in Jakarta and decided to teach myself to code. Despite little prior experience with programming, besides using R at university, I found myself getting hooked. I became particularly interested in e-learning tools after my classes were moved online due to the pandemic. The thought of being able to build such tools myself was, and remains, incredibly exciting. In May 2021 I joined Makers Academy for 12 weeks of intensive group based learning taking me from keen amateur to well rounded junior developer. Makers not only boosted my programming confidence but taught me to love pair programming and working in teams to best produce quality code and learn new technologies. In the future I would love to find ways of bringing together the skills I have developed both in programming and teaching. 
 
 ## Projects
 
@@ -16,17 +14,17 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 
 #### Ability to associate and combine areas of knowledge 
 
-- During my final project at Makers, our team had difficulty agreeing on which tech stack to use. Some members of the group wanted to focus on JavaScript, others on Ruby. We all wanted to ensure we made use of frameworks regularly used in the industry. I suggested that we use Ruby on Rails as an API on the backend and React on the frontend, allowing everyone in the group to focus on their own learning priorities. This also allowed us to practice using technologies like Postman and Insomia to test our Rails API. 
+- During my final project at Makers, our team had difficulty agreeing on which tech stack to use. Some members of the group wanted to focus on JavaScript, others on Ruby. We all wanted to ensure we made use of frameworks regularly used in the industry. I suggested that we use Ruby on Rails as an API on the backend and React on the frontend, allowing everyone in the group to focus on their own learning priorities. This also allowed us to practice using technologies like Postman and Insomia to test our Rails API.
 
-- My university degree, Human Sciences, was highly interdisciplinary. I studied everything from environmental law to statistics, and from epigenetics to sociology.  This gave me a strong sense of the importance of both breadth and depth of knowledge and allowed me to practise tackling problems from various lines of inquiry. 
+- My university degree, Human Sciences, was highly interdisciplinary. I studied everything from environmental law to statistics, and from epigenetics to sociology.  This gave me a strong sense of the importance of both breadth and depth of knowledge and allowed me to practice tackling problems from various lines of inquiry. 
 
 #### Adaptability and initiative
 
-- While living in Jakarta as an English teacher, I spent time working with a dyslexic Iraqi refugee who was struggling to learn to read and write. His speaking ability was very strong and it was clear that he was a talented and motivated student. It became difficult to teach his class as my dyslexic student was unable to keep up with up with the rest of his classmates. After realizing that my student lived nearby, I spoke to his parents and to my supervisor in order to arrange free tutoring sessions. We spent 2 hours a week working on phonics. This allowed my student to develop his literacy skills and keep his place at my school. I remain in touch with his family.
+- While living in Jakarta as an English teacher, I spent time working with a dyslexic Iraqi refugee who was struggling to learn to read and write. His speaking ability was very strong and it was clear that he was a smart and motivated student. It became difficult to teach his class as my dyslexic student was unable to keep up with the rest of his classmates. After realizing that my student lived nearby, I spoke to his parents and to my supervisor in order to arrange free tutoring sessions. We spent 2 hours a week working on phonics. This allowed my student to develop his literacy skills and keep his place at my school. I remain in touch with his family.
 
 #### Problem solving 
 
-- As part of my work experience with Global Initiative, an Oxford based digital agency, I spent two weeks working on a Laravel project where I was tasked with converting Blade templates into Vue.js components. I had no experience with Laravel or PHP and little experience with Vue. I was, however, able to use principles I had learnt while working with Rails, such as the MVC design pattern, and React/React Native, for example working with components, to tackle the project head on. Consequently, I was able to make fast progress and my changes were merged into main. My changes meant that all events relating to the navbar, with differentiated views for admins, super admins, and regular users, were handled entirely by the frontend using Vue. Given Vue’s speed and performance, this allowed for a smoother user experience.  
+- As part of my work experience with Global Initiative, an Oxford based digital agency, I spent two weeks working on a Laravel project where I was tasked with converting Blade templates into Vue.js components. I had no experience with Laravel or PHP and little experience with Vue. I was, however, able to use principles learnt while working with Rails, such as the MVC design pattern, and React/React Native, for example working with components, to tackle the project head on. Consequently, I was able to make fast progress and my code was merged into main. My changes meant that all events relating to the navbar, with differentiated views for admins, super admins, and regular users, were handled entirely by the frontend using Vue. Given Vue’s speed and performance, this allowed for a smoother user experience.  
 
 
 ## Technologies
@@ -40,7 +38,7 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 **Global Initiative, Oxford** (October 2021)
 
 _Work Experience as a frontend dev_
-- My final week at Global Initiative was spent working on Javascript animations. I was tasked with creating animations using three approaches: Jquery, vanilla Javascript and GSAP. Once I had created animations using Jquery, I was quickly able to update my approach for Vanilla JS and GSAP. The main payoff for me has come from increased confidence in switching between various libraries and approaches so as to best meet the needs of a particular task.
+- My final week at Global Initiative was spent working on Javascript animations. I was tasked with creating animations using Jquery, vanilla Javascript and GSAP. Once I had created animations using Jquery, I was quickly able to update my approach for Vanilla JS and GSAP. The main payoff for me has come from increased confidence in switching between various libraries and approaches so as to best meet the needs of a particular task.
 
 - Working at Global Initiative also gave me an insight into technologies that make for smooth and efficient project management. For instance, I was introduced to Liquid Planner by my project manager and also used Jenkins for continuous integration. 
 

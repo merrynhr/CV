@@ -63,14 +63,14 @@ _Teacher_
 - While working as a teacher, effective time management skills were essential both in terms of managing my own resources and those of my students. 
 - Adjusting to a new multicultural working environment was essential in making the move to life in Jakarta. 
 - Dealing with unpredictability, such as power cuts and flooding was also essential to life in Jakarta.  
-- While teaching myself to code, my knowledge of teaching techniques, such as spaced repetition, accelerating my learning speed significantly. 
+- While teaching myself to code, my knowledge of teaching techniques, such as spaced repetition, accelerated my learning speed significantly. 
 
 **University College, Oxford** (September 2012 - April 2014)  
 
 _Caterer, Silver Service Waiter and Kitchen Porter_
 - In my final year of school I decided to get a job to gain a degree of financial independence and to allow for a planned hiking trip to Borneo. This experience, working in a high pressure environment where organisation and task flexibility was essential, helped prepare me for university and my first graduate job.  
 
-**Wellcome Trust Centre for Human Genetics, Oxford** (October 2013)
+**Wellcome Trust Centre for Human Genetics** (October 2013)
 
 _Work Experience_
 - Two weeks working an intellectually stimulating and highly demanding environment where attention to detail (especially while working with expensive equipment) was key.
@@ -80,14 +80,13 @@ _Work Experience_
 
 #### Makers Academy (May 2021 - August 2021)
 _Agile workflow and team collaboration_
-- Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. This was achieved by pairing in sprints to implement tickets agreed upon by the whole team, and by attending standups to update team members on progress and any blockers. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
+- Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. This was achieved by pairing in sprints to implement tickets agreed upon by the whole team, and by attending standups to update team members on progress and blockers. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
 
 _Model View Controller design pattern_
 - Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to make sense of new codebases faster and with more confidence, for instance when working with Laravel for Global Initiative.
 
 _Test Driven Development_
-- Makers emphasised the use of TDD to encourage DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier and faster as it becomes much easier to check if the refactoring process has broken anything. 
- 
+- Makers encouraged the use of TDD to encourage DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier with tests providing immediate evidence of any newly introduced bugs.
 
 _Working in a high pressure environment_
 - For our final projects at Makers we had only two weeks to decide on, plan, and execute our ideas. The experience gave me the confidence necessary to teach myself new technologies and create projects with them from scratch. My teamwork and communication skills were also essential, particularly when deciding on a project that suited everyone in such a short timeframe.     

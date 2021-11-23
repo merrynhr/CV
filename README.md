@@ -7,7 +7,9 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 | Name                         | Description                    | Tech/tools                         |
 | ---------------------------- | ------------------------------ | ---------------------------------- |
 | **Final project**            | [Tutoroom](https://github.com/merrynhr/tutoroom_be) Online tutoring site.| React front end, Rails API backend |
-| **Personal blog**            | ANY BLOG. Blogging platform.   | Rails                              |
+| **Personal blog**            | [ANY BLOG](https://github.com/merrynhr/ANY_BLOG). Blogging platform.   | Rails                              |
+| **Messaging App**            | [Message Me](https://github.com/merrynhr/message_me). Real time messaging.   | Rails, action cabel                              |
+
 
 
 ## Skills

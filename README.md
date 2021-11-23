@@ -6,7 +6,7 @@ In September 2020 I left my job as an English teacher in Jakarta and decided to 
 
 | Name                         | Description                    | Tech/tools                         |
 | ---------------------------- | ------------------------------ | ---------------------------------- |
-| **Final project**            | Tutoroom. Online tutoring site.| React front end, Rails API backend |
+| **Final project**            | [Tutoroom](https://github.com/merrynhr/tutoroom_be) Online tutoring site.| React front end, Rails API backend |
 | **Personal blog**            | ANY BLOG. Blogging platform.   | Rails                              |
 
 

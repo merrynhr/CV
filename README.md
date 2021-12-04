@@ -85,7 +85,7 @@ _Agile workflow and team collaboration_
 - Learning to respond with flexibility to changes in project requirements and priorities made working in groups not only more productive, but also more enjoyable. This was achieved by pairing in sprints to implement tickets agreed upon by the whole team, and by attending standups to update team members on progress and blockers. The Agile approach also allowed for natural growth in projects, often taking them further than initially planned.  
 
 _Model View Controller design pattern_
-- Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to make sense of new codebases faster and with more confidence, for instance when working with Laravel for Global Initiative.
+- Using the MVC design pattern in Rails bettered my understanding of how code is structured across a range of popular frameworks. This enabled me to quickly and confidently make sense of new codebases, for instance when working with Laravel for Global Initiative.
 
 _Test Driven Development_
 - Makers encouraged the use of TDD to encourage DRY, well organised code, and a methodical step by step process that has helped me personally to break down my code into more manageable sections. TDD has also made the refactoring of projects easier with tests providing immediate evidence of any newly introduced bugs.
